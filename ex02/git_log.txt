@@ -1,17 +1,11 @@
-commit dc58a442aad6fbcedb4119d04c96af55e176dc70
+commit 2b396ecdc2846dc04a4e9f46d22e0cd7a03e8c3c
 Author: Tala-sh <talasharayre@gamial.com>
-Date:   Tue Oct 6 11:02:44 2026 +0300
+Date:   Tue Oct 6 13:02:44 2026 +0300
 
-    Add hello.txt file
+    add hello.txt
 
-commit d5f56c08ffa664ab8dc6c137088a6d1d4445a847
+commit e3e7b3e0711d774456ec86cc35eef569bc4a3b92
 Author: Tala-sh <talasharayre@gamial.com>
-Date:   Tue Oct 6 09:58:09 2026 +0300
+Date:   Tue Oct 6 11:26:46 2026 +0300
 
-    init ex02
-
-commit 0e2ca6c78e56b023ecb1bd450ba48a1f61ce0913
-Author: Tala-sh <talasharayre@gamial.com>
-Date:   Tue Oct 6 09:52:21 2026 +0300
-
-    init hello.txt
+    add fexo2
