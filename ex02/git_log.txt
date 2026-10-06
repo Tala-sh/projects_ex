@@ -1,5 +1,0 @@
-commit 4064a25aba7274c25866f6bf4c45f3a44ea7688c
-Author: Tala-sh <talasharayre@gamial.com>
-Date:   Sun Oct 4 21:49:40 2026 +0300
-
-     initial commit: add hello.txt
